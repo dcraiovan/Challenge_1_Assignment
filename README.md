@@ -9,10 +9,10 @@ This is an Excel Analysis of four thousand past Kickstarter projects' level of s
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![image1](Images/Theater_Outcomes_vs_Launch.PNG)
+![image1](Theater_Outcomes_vs_Launch.PNG)
 
 ### Analysis of Outcomes Based on Goals
-![image2](Images/Outcomes_vs_Goals.PNG)
+![image2](Outcomes_vs_Goals.PNG)
 
 ### Challenges and Difficulties Encountered
 No challenges were encountered. 
@@ -22,8 +22,8 @@ No challenges were encountered.
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 The month that launched the most successful Kickstarter campaigns was May. 
-January, June, July and October all had roughly the same number of failed campaigns launched. 
-This can be determined by examining the points along the trend lines of the chart. 
+
+January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. 
 
 - What can you conclude about the Outcomes based on Goals?
 In the subcategory plays no campaigns were cancelled, all either succeeded or failed. Campaigns with goals less than $1000 have the highest success rate, while campaigns with goals between $25000 and $29999 have the highest rate of failure (excluding the 45000 to 49999 range as it only had one campaign and it failed).
