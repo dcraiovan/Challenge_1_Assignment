@@ -9,10 +9,10 @@ This is an Excel Analysis of four thousand past Kickstarter projects' level of s
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![image](Theater_Outcomes_vs_Launch.PNG)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111898553/187819929-20320ed1-1fc8-4eb9-a873-ed6272b023a5.png)
 
 ### Analysis of Outcomes Based on Goals
-![image](Outcomes_vs_Goals.PNG)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111898553/187819958-22755be6-e6d9-4880-a278-fb085693f6a6.png)
 
 ### Challenges and Difficulties Encountered
 No challenges were encountered. 
